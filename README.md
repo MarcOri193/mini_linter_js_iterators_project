@@ -1,0 +1,1 @@
+With my knowledge about iterating over arrays and its methods, I’ve created a miniature version of a linter, an application that can improve the quality of a paragraph and gather some information about that paragraph.
